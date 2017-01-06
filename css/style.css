@@ -1140,9 +1140,6 @@ h6 {
   position: relative;
   top: -2px; }
 
-.icon-heart:before {
-  content: "\e608"; }
-
 .icon-right:before {
   content: "\e60a"; }
 
